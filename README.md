@@ -156,7 +156,9 @@ Displays key business metrics for quick insights.
 
 ## Dashboard Preview
 
-*(Add your Power BI dashboard screenshot here)*
+<img width="1317" height="718" alt="DashBoard_Homepage" src="https://github.com/user-attachments/assets/194feb47-772a-4b91-9111-973084b02c61" />
+
+<img width="1314" height="721" alt="BestWorstSeller" src="https://github.com/user-attachments/assets/66b92528-fdf7-428e-90cf-00186d8e57e7" />
 
 ---
 
